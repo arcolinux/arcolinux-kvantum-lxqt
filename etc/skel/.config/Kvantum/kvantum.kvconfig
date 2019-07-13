@@ -1,6 +1,6 @@
 [General]
-theme=ArcDark
+theme=ArcDark#
 
 [Applications]
-ArcDark=simplescreenrecorder,qbittorrent,vlc,flameshot,pcmanfm-qt,lxqt-leave,
+ArcDark%23=simplescreenrecorder, qbittorrent, vlc, flameshot, pcmanfm-qt, lxqt-leave, 
 Default=virtualbox
